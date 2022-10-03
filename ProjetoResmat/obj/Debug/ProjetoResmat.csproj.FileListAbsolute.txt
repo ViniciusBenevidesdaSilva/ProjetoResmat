@@ -1,0 +1,14 @@
+J:\FTT\Visual Studio\4° semestre\ProjetoResmat\ProjetoResmat\bin\Debug\ProjetoResmat.exe.config
+J:\FTT\Visual Studio\4° semestre\ProjetoResmat\ProjetoResmat\bin\Debug\ProjetoResmat.exe
+J:\FTT\Visual Studio\4° semestre\ProjetoResmat\ProjetoResmat\bin\Debug\ProjetoResmat.pdb
+J:\FTT\Visual Studio\4° semestre\ProjetoResmat\ProjetoResmat\obj\Debug\ProjetoResmat.csproj.AssemblyReference.cache
+J:\FTT\Visual Studio\4° semestre\ProjetoResmat\ProjetoResmat\obj\Debug\ProjetoResmat.MainForm.resources
+J:\FTT\Visual Studio\4° semestre\ProjetoResmat\ProjetoResmat\obj\Debug\ProjetoResmat.Properties.Resources.resources
+J:\FTT\Visual Studio\4° semestre\ProjetoResmat\ProjetoResmat\obj\Debug\ProjetoResmat.csproj.GenerateResource.cache
+J:\FTT\Visual Studio\4° semestre\ProjetoResmat\ProjetoResmat\obj\Debug\ProjetoResmat.csproj.CoreCompileInputs.cache
+J:\FTT\Visual Studio\4° semestre\ProjetoResmat\ProjetoResmat\obj\Debug\ProjetoResmat.exe
+J:\FTT\Visual Studio\4° semestre\ProjetoResmat\ProjetoResmat\obj\Debug\ProjetoResmat.pdb
+J:\FTT\Visual Studio\4° semestre\ProjetoResmat\ProjetoResmat\obj\Debug\ProjetoResmat.Forms.FormSelecionaGrid.resources
+J:\FTT\Visual Studio\4° semestre\ProjetoResmat\ProjetoResmat\obj\Debug\ProjetoResmat.Forms.FormExibeTrelica.resources
+J:\FTT\Visual Studio\4° semestre\ProjetoResmat\ProjetoResmat\obj\Debug\ProjetoResmat.Componentes.GridTrelica.resources
+J:\FTT\Visual Studio\4° semestre\ProjetoResmat\ProjetoResmat\obj\Debug\ProjetoResmat.Componentes.LinhaGrid.resources

@@ -13,5 +13,11 @@ namespace ProjetoResmat
         static public int qtdH { get; set; }
         static public int qtdV { get; set; }
 
+
+        static public int inicioH { get; set; }
+        static public int inicioV { get; set; }
+        static public int passoH { get; set; }
+        static public int passoV { get; set; }
+
     }
 }

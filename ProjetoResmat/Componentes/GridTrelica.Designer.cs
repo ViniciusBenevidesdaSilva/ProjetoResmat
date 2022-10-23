@@ -29,7 +29,9 @@ namespace ProjetoResmat.Componentes
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.panel = new System.Windows.Forms.Panel();
+            this.timerDesenhaBarra = new System.Windows.Forms.Timer(this.components);
             this.SuspendLayout();
             // 
             // panel
@@ -40,6 +42,11 @@ namespace ProjetoResmat.Componentes
             this.panel.Name = "panel";
             this.panel.Size = new System.Drawing.Size(546, 411);
             this.panel.TabIndex = 0;
+            this.panel.Paint += new System.Windows.Forms.PaintEventHandler(this.panel_Paint);
+            // 
+            // timerDesenhaBarra
+            // 
+            this.timerDesenhaBarra.Tick += new System.EventHandler(this.timerDesenhaBarra_Tick);
             // 
             // GridTrelica
             // 
@@ -59,5 +66,6 @@ namespace ProjetoResmat.Componentes
         #endregion
 
         private System.Windows.Forms.Panel panel;
+        private System.Windows.Forms.Timer timerDesenhaBarra;
     }
 }

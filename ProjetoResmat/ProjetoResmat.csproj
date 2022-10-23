@@ -46,7 +46,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Classes\Barra.cs" />
     <Compile Include="Classes\DadosGrid.cs" />
+    <Compile Include="Classes\NoBotao.cs" />
     <Compile Include="Componentes\GridTrelica.cs">
       <SubType>UserControl</SubType>
     </Compile>

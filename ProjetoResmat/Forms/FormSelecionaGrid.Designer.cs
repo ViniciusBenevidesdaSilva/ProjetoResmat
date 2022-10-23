@@ -91,7 +91,7 @@ namespace ProjetoResmat.Forms
             this.txtQtdH.TabIndex = 8;
             this.txtQtdH.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.txtQtdH.Value = new decimal(new int[] {
-            10,
+            4,
             0,
             0,
             0});
@@ -166,7 +166,7 @@ namespace ProjetoResmat.Forms
             this.txtQtdV.TabIndex = 9;
             this.txtQtdV.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.txtQtdV.Value = new decimal(new int[] {
-            10,
+            3,
             0,
             0,
             0});

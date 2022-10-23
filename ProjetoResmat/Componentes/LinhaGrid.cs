@@ -12,12 +12,17 @@ namespace ProjetoResmat.Componentes
 {
     public partial class LinhaGrid : UserControl
     {
+        public int valor { get; set; }
+        
+        public bool ehHorizontal { get; private set; }
+
+
         public LinhaGrid()
         {
             InitializeComponent();
         }
 
-        public LinhaGrid(int altura, int comprimento)
+        public LinhaGrid(int altura, int comprimento, bool isHorizontal = false)
         {
             InitializeComponent();
 
@@ -25,6 +30,8 @@ namespace ProjetoResmat.Componentes
             Width = comprimento;
 
             Location = new Point(0, 0);
+
+            ehHorizontal = isHorizontal;
         }
     }
 }
